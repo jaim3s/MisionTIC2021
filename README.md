@@ -7,7 +7,7 @@ Solucionario de problemas de misión TIC 2021
 - [x] Condiciones
 - [x] Estructura ciclicas I
 - [ ] Estructura ciclicas II
-- [ ] Cadenas
+- [x] Cadenas
 - [ ] Arreglos matrices
 - [ ] Clases y ObjetosFile
 - [ ] Herencia-PolimorfismoFile
