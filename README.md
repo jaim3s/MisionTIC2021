@@ -5,7 +5,7 @@ Solucionario de problemas de misión TIC 2021
 
 - [x] Funciones
 - [x] Condiciones
-- [ ] Estructura ciclicas I
+- [x] Estructura ciclicas I
 - [ ] Estructura ciclicas II
 - [ ] Cadenas
 - [ ] Arreglos matrices
