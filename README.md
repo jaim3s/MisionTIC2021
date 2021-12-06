@@ -10,5 +10,5 @@ Solucionario de problemas de misión TIC 2021
 - [x] Cadenas
 - [x] Arreglos matrices
 - [X] Clases y Objetos
-- [ ] Herencia-Polimorfismo
+- [x] Herencia-Polimorfismo
 - [ ] Relaciones Objetos-Clases
