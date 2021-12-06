@@ -99,8 +99,8 @@ class MatrixMagica{
      */
     public static boolean matrixMagica(double[][] matrix){
 
-        double mainDiag = 0.0;
-        double secondDiag = 0.0;
+        double diagonalPrincipal = 0.0;
+        double diagonalSecundaria = 0.0;
         double totalFila = 0.0;
 
         // Sumar columnas y filas y comparar si son iguales
@@ -112,12 +112,12 @@ class MatrixMagica{
                 }
             }
 
-            mainDiag += matrix[i][i]; 
+            diagonalPrincipal += matrix[i][i]; 
             int col = (matrix.length-1) - i;
-            secondDiag  += matrix[i][col];
+            diagonalSecundaria  += matrix[i][col];
         }
 
-        if ((mainDiag == secondDiag) && (mainDiag == totalFila)){
+        if ((diagonalPrincipal == diagonalSecundaria) && (diagonalPrincipal == totalFila)){
             return true;
         }
         return false;
