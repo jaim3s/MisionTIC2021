@@ -9,6 +9,6 @@ Solucionario de problemas de misión TIC 2021
 - [ ] Estructura ciclicas II
 - [x] Cadenas
 - [x] Arreglos matrices
-- [ ] Clases y ObjetosFile
-- [ ] Herencia-PolimorfismoFile
-- [ ] Relaciones Objetos-ClasesFile
+- [X] Clases y Objetos
+- [ ] Herencia-Polimorfismo
+- [ ] Relaciones Objetos-Clases
